@@ -52,6 +52,14 @@ console.log (unNombre);
 console.log (typeof unNombre);
 
 
+
+// pour convertir un nombre entier ou float en string
+unNombre = 10;
+var unstring = unNombre.toString;
+console.log (unstring);
+console.log (typeof unstring);
+
+
 // LA PORTEE DES VARIABLES
 /* LES VARIABLES declarées directement à la racine du fichier .js  sont appleés variables globales
 ca veut sire quelle sont disponibles dans l'ensemble de notre fichier .js y compris dans les fonctions
