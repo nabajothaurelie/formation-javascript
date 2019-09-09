@@ -120,3 +120,8 @@ console.clear();
  // vaut mieux declarer le prix éà dans une variable c mieux
  var a = convertEuroToUsd(20 , 1.1035);
  console.log("20€ après conversion en dollars donne " + a + "$");
+
+
+
+
+
